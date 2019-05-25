@@ -19,7 +19,10 @@ pm2 logs 查看日志
 ## base-2
 1. app.use 和 route.get 都严格遵循中间件机制，next 标识跳转下一个中间件，没有 next，即停止中间件流程返回结果
 2. route.get 可以重复针对一个路由做多次重复处理
+3. ctx.redirect,用来重定向
 
 
+## base-3 
+1. 目前问题是 route 都集中到一个文件内需要优化
 
 
