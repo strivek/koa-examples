@@ -1,0 +1,24 @@
+{
+  "name": "koa-examples",
+  "version": "1.0.0",
+  "description": "npm install  全局安装 pm2",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strivek/koa-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strivek/koa-examples/issues"
+  },
+  "homepage": "https://github.com/strivek/koa-examples#readme"
+}
